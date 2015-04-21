@@ -6,6 +6,10 @@
 	background: url("../images/background-image-elfess.png") repeat scroll 0 0 / cover #F5F5F5;	
 }
 
+.home>header {
+	background-image: url("../images/background-image-elfess.png");
+}
+
 .view-login .introduction header {
     background-image: url("../images/login-and-register-banner.png");
 }
