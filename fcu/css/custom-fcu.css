@@ -17,3 +17,7 @@
 .view-register .introduction header {
     background-image: url("../images/login-and-register-banner.png");
 }
+
+.outer-wrapper {
+    visibility: hidden;
+}
