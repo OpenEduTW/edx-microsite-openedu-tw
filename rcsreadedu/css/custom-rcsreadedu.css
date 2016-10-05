@@ -1,5 +1,5 @@
 .find-courses header.search, .university-profile header.search {
-	background-image: url("../images/background-image-rcsreadedu.png");
+	background-image: url("../images/background-image-rcsreadedu.jpg");
 }
 
 .course-info header.course-profile {
@@ -7,7 +7,7 @@
 }
 
 .home>header {
-	background-image: url("../images/background-image-rcsreadedu.png");
+	background-image: url("../images/background-image-rcsreadedu.jpg");
 }
 
 .view-login .introduction header {
